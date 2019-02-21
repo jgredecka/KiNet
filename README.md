@@ -9,3 +9,7 @@ The main aim of this project was to construct and visualise a kinase signalling 
 ## Pre-requisites
 
 * Python 2
+
+## Authors
+
+Justyna Gredecka
