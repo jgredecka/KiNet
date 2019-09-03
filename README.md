@@ -1,4 +1,4 @@
-# Kinase Signalling Network
+# KiNet 
 
 ## About
 
