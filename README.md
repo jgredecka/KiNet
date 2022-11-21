@@ -6,7 +6,7 @@ Signalling networks are formed as a result of interacting cell signalling pathwa
 
 KiNet constructs and visualises kinase signalling network using a dataset of pre-identified proteins and extracted UniProt PTM data. The simple-interaction-format (.SIF) file produced by the script is suitable as input into [Cytoscape](https://cytoscape.org/), a network generator application.
 
-## Example output
+## Example network
 
 A graphical representation of the .SIF file generated using the project's example dataset is shown below:
 
